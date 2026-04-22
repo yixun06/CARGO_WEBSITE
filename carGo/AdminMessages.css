@@ -1,0 +1,36 @@
+﻿/*For Admin Messages Page used only*/
+body {
+    background-color: #f8f9fa;
+}
+
+.custom-table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+    .custom-table th, .custom-table td {
+        vertical-align: middle;
+        padding: 15px 10px;
+        overflow: hidden;
+    }
+
+.message-cell {
+    text-align: left;
+    line-height: 1.5;
+    color: #495057;
+    white-space: normal;
+    word-wrap: break-word;
+    word-break: break-word;
+    display: block;
+    width: 100%;
+}
+
+.actions-cell {
+    white-space: nowrap;
+}
+
+.table-light th {
+    background-color: #e9ecef;
+    border-bottom: 2px solid #dee2e6;
+    font-weight: 600;
+}

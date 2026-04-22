@@ -1,0 +1,43 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet packages (restore via packages.config)
+packages/
+!packages/repositories.config
+
+# Test and logs
+*.log
+TestResult*/
+*.trx
+
+# IIS Express
+/.vs/config/applicationhost.config
+
+# App data / local databases / uploads
+carGo/App_Data/*.mdf
+carGo/App_Data/*.ldf
+carGo/App_Data/*.sqlite
+carGo/App_Data/*.db
+carGo/Images/Uploads/
+
+# Publish profiles (may contain server details)
+carGo/Properties/PublishProfiles/*.pubxml
+carGo/Properties/PublishProfiles/*.publishproj
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Node (if frontend tooling is added later)
+node_modules/
