@@ -34,15 +34,6 @@ CarGo is a full-stack web application for managing car rental operations, built 
 5. Build and run with IIS Express (F5).
 6. Access login/register and test customer/admin flows.
 
-## Screenshots
-Store screenshots in docs/screenshots and reference them below.
-
-- Booking page: docs/screenshots/booking-page.png
-- Car gallery/home: docs/screenshots/home-cars.png
-- Contact page: docs/screenshots/contact-page.png
-- User profile: docs/screenshots/user-profile.png
-- Admin order list: docs/screenshots/admin-order-list.png
-- Admin manage cars: docs/screenshots/admin-manage-cars.png
 
 ## Architecture Overview
 CarGo follows a layered full-stack workflow:
